@@ -58,4 +58,4 @@ This is a Task Management System program that allows users to register, add task
 
 ## License
 
-This project is licensed under the Creative Commons
+This project is licensed under the Creative Commons Zero v1.0 Universal
