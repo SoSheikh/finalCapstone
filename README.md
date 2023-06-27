@@ -58,4 +58,4 @@ This is a Task Management System program that allows users to register, add task
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the Creative Commons
